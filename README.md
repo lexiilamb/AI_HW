@@ -1,4 +1,4 @@
-# AI_HW1
+# AI CAP4630 Homework 1
 
 ## Problem 1
 https://colab.research.google.com/drive/1weR-1fouTegPgbClyxEHplImdawL2kyl
